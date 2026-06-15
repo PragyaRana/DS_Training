@@ -266,7 +266,7 @@ By completing this training, I have:
 
 ## 👨‍💻 About the Author
 
-**Aryan Dhiman**
+**Pragya Rana**
 - Python Developer
 - Data Science Enthusiast
 - Lifelong Learner
