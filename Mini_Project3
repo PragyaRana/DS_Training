@@ -1840,8 +1840,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 4,
    "id": "179468d6-0058-4ad9-b7ea-b53bf7eb505e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Conclusion\n",
+    "\n",
+    "#The analysis reveals that customer satisfaction, represented by ratings, is the strongest driver of restaurant popularity. Restaurants providing online ordering tend to perform better, while pricing has only a weak influence on ratings. Restaurants that focus on service quality, convenience, and customer engagement are more likely to achieve long-term success on the Zomato platform."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "09353e97-e084-4c18-ac6c-83d71600a9c5",
    "metadata": {},
    "outputs": [],
    "source": []
