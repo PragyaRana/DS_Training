@@ -1,284 +1,146 @@
-# 📊 Data Science Summer Training 2026
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-Completed-success?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
+# 📊 Data Science Summer Training 2026
 
-**Python • NumPy • Pandas • Data Analysis**
+<img src="https://img.shields.io/badge/Data%20Science-Summer%20Training%202026-0A662E?style=for-the-badge"/>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<br>
+
+### 🚀 Data Analysis • Visualization • Business Intelligence
+
+### 👩‍💻 Pragya Rana
 
 </div>
-
 ---
 
 ## 🎯 Overview
 
-This repository documents my **Data Science Summer Training Program 2026**, showcasing my journey of mastering data science fundamentals, data analysis, and numerical computing using Python and industry-standard libraries.
+This repository contains my work from **Data Science Summer Training 2026**, covering data analysis, visualization, business intelligence, and dashboard development using industry-standard tools.
 
 ---
 
-## 🚀 Training Goals
+## 📚 Training Modules
 
-- ✅ Build strong Python programming fundamentals
-- ✅ Master numerical computing with NumPy
-- ✅ Analyze and manipulate data using Pandas
-- ✅ Develop problem-solving abilities through practical exercises
-- ✅ Understand real-world data handling techniques
-- ✅ Build a foundation for Machine Learning and AI
-
----
-
-## 🛠️ Technology Stack
-
-### Core Language
-- **Python 3.x** – Primary programming language
-
-### Libraries
-- **NumPy** – Numerical computing and array operations
-- **Pandas** – Data manipulation and analysis
-
-### Development Tools
-- Jupyter Notebook – Interactive coding environment
-- VS Code – Code editor
-- Anaconda – Package management
+| Module | Status |
+|----------|----------|
+| 📊 MS Excel & Pivot Tables | ✅ |
+| 📈 NumPy & Pandas | ✅ |
+| 📉 Matplotlib & Seaborn | ✅ |
+| 🔍 Exploratory Data Analysis | ✅ |
+| 📊 Power BI & DAX | ✅ |
+| 🎨 BI Dashboard Design | ✅ |
 
 ---
 
-## 📥 Getting Started
+## 🛠 Tech Stack
 
-### Prerequisites
-- Python 3.7 or higher
-- Anaconda or pip package manager
+| Category | Tools |
+|-----------|---------|
+| Programming | Python |
+| Analytics | NumPy, Pandas |
+| Visualization | Matplotlib, Seaborn |
+| Spreadsheet Analysis | MS Excel |
+| Business Intelligence | Power BI, DAX |
+| Development | Jupyter Notebook, VS Code |
 
-### Installation
+---
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/DataScience_ST.git
-cd DataScience_ST
+## 🚀 Skills Gained
 
-# Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+✅ Data Cleaning
 
-# Install required libraries
-pip install numpy pandas jupyter
+✅ Data Analysis
+
+✅ Exploratory Data Analysis (EDA)
+
+✅ Statistical Analysis
+
+✅ Data Visualization
+
+✅ Dashboard Development
+
+✅ Business Intelligence Reporting
+
+---
+
+## 📈 Learning Roadmap
+
+```text
+Excel → NumPy & Pandas → Visualization
+               ↓
+              EDA
+               ↓
+        Power BI & DAX
+               ↓
+       Dashboard Design
 ```
 
-### Running Notebooks
-
-```bash
-# Start Jupyter Notebook
-jupyter notebook
-
-# Then open the .ipynb files in your browser
-```
-
 ---
 
-## 📚 Curriculum & Topics Covered
+## 🏆 Projects
 
-### 1️⃣ **Python Fundamentals** ✅ Completed
-- Variables and data types
-- Control structures (if, loops)
-- Functions and modules
-- File handling
+### 🍽️ Zomato Data Analysis
+- Restaurant trends
+- Cost analysis
+- Rating analysis
 
-### 2️⃣ **NumPy Mastery** ✅ Completed
+### 🏏 IPL Data Analysis
+- Team performance
+- Toss impact
+- Venue statistics
 
-#### Array Creation
-- `np.array()`, `np.arange()`, `np.zeros()`, `np.ones()`, `np.linspace()`
-
-#### Array Properties
-- `shape`, `ndim`, `size`, `dtype`
-
-#### Array Manipulation
-- `reshape()`, `astype()`, `copy()`, `flatten()`
-
-#### Indexing & Slicing
-- Element access, row/column selection, multi-dimensional indexing, advanced slicing
-
-#### Mathematical Operations
-- Arithmetic operations, power operations, element-wise functions
-
-#### Array Operations
-- Joining: `concatenate()`, `vstack()`, `hstack()`
-- Splitting: `array_split()`, `hsplit()`, `vsplit()`
-
-#### Iteration
-- For loops, while loops, multi-dimensional traversal
-
-#### Aggregation Functions
-- `sum()`, `mean()`, `std()`, `min()`, `max()`, `argmax()`, `argmin()`
-
-### 3️⃣ **Pandas Fundamentals** ✅ Completed
-
-#### Core Concepts
-- Installation, library imports, version management
-
-#### Data Structures
-- **Series**: Creating series, custom indexing, accessing values, label-based operations
-- Comparison: NumPy vs Pandas
-
-#### Exploration & Documentation
-- `help()`, `dir()`, `info()` methods
-- Understanding official documentation
-- Built-in methods exploration
-
-### 4️⃣ **Data Visualization** 🔄 Upcoming
-- Matplotlib basics
-- Seaborn for statistical graphics
-- Interactive visualizations
-
-### 5️⃣ **Statistics & Probability** 🔄 Upcoming
-- Descriptive statistics
-- Probability distributions
-- Hypothesis testing
-
-### 6️⃣ **Exploratory Data Analysis (EDA)** 🔄 Upcoming
-- Data cleaning and preprocessing
-- Feature engineering
-- Data visualization for insights
-
-### 7️⃣ **Machine Learning** ⏳ Future
-- Supervised learning algorithms
-- Unsupervised learning
-- Model evaluation and optimization
+### 😴 Sleep Health Analysis
+- Lifestyle factors
+- Sleep quality insights
+- Health recommendations
 
 ---
 
 ## 📂 Repository Structure
 
-```
-DataScience_ST/
+```text
+DS_Training/
 │
-├── README.md                          # This file
-├── 11_june_class.ipynb               # Class notes & exercises
-├── 12_june_ST.ipynb                  # Session assignments
-├── NumPy_Student_Workbook.ipynb      # Hands-on NumPy exercises
-│
-└── Future Modules/
-    ├── matplotlib/
-    ├── seaborn/
-    ├── statistics/
-    ├── probability/
-    ├── eda/
-    └── machine_learning/
+├── Excel
+├── NumPy_Pandas
+├── Visualization
+├── EDA_Projects
+├── PowerBI
+└── README.md
 ```
 
 ---
 
-## ✅ Practical Work Completed
+## 🎯 Learning Outcomes
 
-| Task | Status | Notes |
-|------|--------|-------|
-| Array Creation | ✅ | Mastered all creation methods |
-| Shape & Dimensions | ✅ | Understanding ndim, shape, size |
-| Data Types | ✅ | dtype conversions and operations |
-| Reshaping Arrays | ✅ | Various reshape techniques |
-| Indexing Arrays | ✅ | Basic and advanced indexing |
-| Array Slicing | ✅ | Multi-dimensional slicing |
-| Matrix Operations | ✅ | Linear algebra foundations |
-| Statistical Functions | ✅ | Aggregation and analysis |
-| Array Traversal | ✅ | Loop-based iterations |
-| Pandas Series Practice | ✅ | Series creation and manipulation |
+- Analyze real-world datasets
+- Create insightful visualizations
+- Build interactive dashboards
+- Generate business insights
+- Present data-driven recommendations
 
 ---
 
-## 📊 Progress Tracker
-
-| Module | Status | Completion |
-|--------|--------|------------|
-| Python Basics | ✅ Completed | 100% |
-| NumPy Fundamentals | ✅ Completed | 100% |
-| NumPy Workbook | ✅ Completed | 100% |
-| Pandas Basics | ✅ Completed | 100% |
-| Data Visualization | 🔄 In Progress | 0% |
-| Statistics | 🔄 Upcoming | 0% |
-| Probability | 🔄 Upcoming | 0% |
-| EDA | 🔄 Upcoming | 0% |
-| Machine Learning | ⏳ Future | 0% |
-
-### Visual Progress
-
-```
-Python Basics       ██████████ 100%
-NumPy               ██████████ 100%
-Pandas              ██████████ 100%
-Matplotlib          ░░░░░░░░░░   0%
-Statistics          ░░░░░░░░░░   0%
-Probability         ░░░░░░░░░░   0%
-EDA                 ░░░░░░░░░░   0%
-Machine Learning    ░░░░░░░░░░   0%
-```
-
----
-
-## 🎓 Key Learning Outcomes
-
-By completing this training, I have:
-- ✅ Mastered NumPy array creation, manipulation, and operations
-- ✅ Performed numerical computations and statistical analysis
-- ✅ Analyzed structured data using Pandas Series
-- ✅ Developed strong problem-solving skills
-- ✅ Built a strong foundation for advanced data science topics
-- ✅ Gained practical experience with industry-standard tools
-
----
-
-## 📖 Learning Resources
-
-### Official Documentation
-- [NumPy Documentation](https://numpy.org/doc/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Python Official Guide](https://docs.python.org/3/)
-
-### Recommended Learning Materials
-- NumPy User Guide & API Reference
-- Pandas Getting Started Tutorials
-- Real-world datasets for practice (Kaggle, UCI ML Repository)
-
----
-
-## 🌟 Next Steps
-
-1. **Master Data Visualization** – Learn Matplotlib and Seaborn
-2. **Study Statistics** – Understand distributions and hypothesis testing
-3. **Learn Probability** – Build mathematical foundations
-4. **Practice EDA** – Apply skills to real-world datasets
-5. **Explore Machine Learning** – Start with supervised learning algorithms
-6. **Build Projects** – Create end-to-end data science projects
-
----
-
-## 💡 Tips for Success
-
-- 📝 **Practice regularly** – Code along with every example
-- 🔄 **Review and repeat** – Revisit concepts multiple times
-- 🎯 **Build projects** – Apply learning to real datasets
-- 📚 **Read documentation** – Get comfortable with official docs
-- 🤝 **Collaborate** – Share knowledge with peers
-- ⚡ **Stay consistent** – Dedicate time daily to learning
-
----
-
-## 👨‍💻 About the Author
+## 👩‍💻 Author
 
 **Pragya Rana**
-- Python Developer
-- Data Science Enthusiast
-- Lifelong Learner
+
+🎓 B.Tech Computer Science
+
+📊 Data Science Enthusiast
+
+🚀 Aspiring Data Analyst
 
 ---
 
-<div align="center">
-
-### ⭐ If you find this repository useful, please star it!
-
-🚀 **Learning Data Science One Notebook at a Time**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/your-username)
-
-</div># DS_Training
+⭐ **Learning Data Science One Dataset at a Time**
